@@ -1,0 +1,342 @@
+@media screen and (max-width: 1200px){
+    .registration-img {
+        width: 500px;
+        height: 250px;
+        padding: 0 10px;
+    }
+    .registration-title {
+        font-size: 18px;
+    }
+    .about-clinic-img {
+        width: 300px;
+    }
+    .consultation-form{
+        padding: 0 20px;
+    }
+    .consultation-form-about {
+        margin-right: 50px;
+    }
+    .consultation-form-title {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .form-list {
+        padding-top: 50px;
+    }
+    .form {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .header {
+        padding: 20px;
+    }
+    .logo-img {
+        width:350px;
+    }
+    .registration {
+        padding: 0;
+    }
+    .container-registration {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .registration-img {
+        width: 100%;
+        margin: auto;
+    }
+    .registration-about {
+        padding: 20px 0;
+    }
+    .about {
+        padding-left: 15px;
+        padding-bottom: 80px;
+    }
+    .about-clinic {
+        margin: 0;
+        padding-bottom: 40px;
+    }
+    .about-clinic-img {
+        width: 250px;
+    }
+    .about-description {
+        font-size: 18px;
+    }
+    .about-advantages-list {
+        padding: 0 10px;
+    }
+    .profit {
+        padding-bottom: 40px;
+    }
+    .consultation-form-about {
+        display: none;
+    }
+    .consultation {
+        text-align: center;
+    }
+    .form {
+        margin-bottom: 20px;
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .header {
+        padding: 20px;
+    }
+    .header-tel {
+        display: none;
+    }
+    .registration {
+        margin-bottom: 0;
+    }
+    .registration-img {
+        width: 450px;
+       display: block;
+       margin: auto;
+    }
+    .registration-title {
+        font-size: 20px;
+    }
+    .about {
+        padding-bottom: 80px;
+        margin-bottom: 0;
+    }
+    .about-clinic {
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+    .about-clinic-img {
+        display: block;
+        margin: auto;
+    }
+    .about-description {
+        padding: 0 10px;
+    }
+    .about-advantages-list {
+        flex-wrap: wrap;
+    }
+    .about-advantages-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .profit-description-list {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+    .photo {
+        height: 500px;
+        padding: 50px 0;
+    }
+    .container-photo {
+        height: 100%;
+        padding: 10px 0; 
+        flex-direction: column;
+    } 
+    .form-list {
+        padding: 0 10px;
+    }
+    .personal-data {
+        font-size: 14px;
+    }
+    .footer-container {
+        align-items: center;
+        padding: 10px;
+    }
+    .footer-name,
+    .footer-license,
+    .footer-tel,
+    .footer-mail
+     {
+        font-size: 12px;
+        line-height: 1;
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px){
+    .header {
+        padding: 20px;
+    }
+    .header-tel {
+        display: none;
+    }
+    .registration {
+        margin-bottom: 0;
+    }
+    .registration-img {
+        width: 450px;
+       display: block;
+       margin: auto;
+    }
+    .registration-title {
+        font-size: 20px;
+    }
+    .about {
+        padding-bottom: 80px;
+        margin-bottom: 0;
+    }
+    .about-clinic {
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+    .about-clinic-img {
+        display: block;
+        margin: auto;
+    }
+    .about-description {
+        padding: 0 10px;
+    }
+    .about-advantages-list {
+        flex-wrap: wrap;
+    }
+    .about-advantages-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .profit-description-list {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+    .photo {
+        height: 500px;
+        padding: 50px 0;
+    }
+    .container-photo {
+        height: 100%;
+        padding: 10px 0; 
+        flex-direction: column;
+    } 
+    .form-list {
+        padding: 0 10px;
+    }
+    .personal-data {
+        font-size: 14px;
+    }
+    .footer-container {
+        align-items: center;
+        padding: 10px;
+    }
+    .footer-name,
+    .footer-license,
+    .footer-tel,
+    .footer-mail
+     {
+        font-size: 12px;
+        line-height: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 800px){
+    .header {
+        padding: 20px;
+    }
+    .logo-img {
+        width:350px;
+    }
+    .registration {
+        padding: 0;
+    }
+    .container-registration {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .registration-img {
+        width: 100%;
+        margin: auto;
+    }
+    .registration-about {
+        padding: 20px 0;
+    }
+    .about {
+        padding-left: 15px;
+        padding-bottom: 80px;
+    }
+    .about-clinic {
+        margin: 0;
+        padding-bottom: 40px;
+    }
+    .about-clinic-img {
+        width: 250px;
+    }
+    .about-description {
+        font-size: 18px;
+    }
+    .about-advantages-list {
+        padding: 0 10px;
+    }
+    .profit {
+        padding-bottom: 40px;
+    }
+    .consultation-form-about {
+        display: none;
+    }
+    .consultation {
+        text-align: center;
+    }
+    .form {
+        margin-bottom: 20px;
+    }
+}
+/* @media screen and (max-width: 600px){
+    .header-container {
+        padding: 50px;
+    }
+}
+@media screen and (max-width: 800px){
+    .header-container {
+        padding: 50px;
+    }
+} */
+
+
+
+@media screen and (max-width: 1200px){
+    .registration-img {
+        width: 500px;
+        height: 250px;
+        padding: 0 10px;
+    }
+    .registration-title {
+        font-size: 18px;
+    }
+    .about-clinic-img {
+        width: 300px;
+    }
+    .consultation-form{
+        padding: 0 20px;
+    }
+    .consultation-form-about {
+        margin-right: 50px;
+    }
+    .consultation-form-title {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .form-list {
+        padding-top: 50px;
+    }
+    .form {
+        width: 300px;
+    }
+}
